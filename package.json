@@ -1,0 +1,8 @@
+{
+  "name": "js-surprise-emoji",
+  "version": "1.0.0",
+  "description": "Reveal emoji when press 1,2,3 on keyboard and clear",
+  "main": "index.html",
+  "dependencies": {},
+  "keywords": []
+}
